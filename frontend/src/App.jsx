@@ -72,7 +72,7 @@ function App() {
 
       const response = await axios.get(
 
-        "http://web-production-55a5a2.up.railway.app/demo"
+        "https://web-production-55a5a2.up.railway.app/demo"
 
       );
 
@@ -94,7 +94,7 @@ function App() {
 
     window.open(
 
-      "http://web-production-55a5a2.up.railway.app/export",
+      "https://web-production-55a5a2.up.railway.app/export",
 
       "_blank"
 
