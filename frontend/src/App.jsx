@@ -42,7 +42,7 @@ function App() {
 
       const response = await axios.post(
 
-        "https://web-production-55a5a2.up.railway.app/upload",
+        "https://loglens-backend-mohana.onrender.com/upload",
 
         formData
 
@@ -72,7 +72,7 @@ function App() {
 
       const response = await axios.get(
 
-        "https://web-production-55a5a2.up.railway.app/demo"
+        "https://loglens-backend-mohana.onrender.com"
 
       );
 
@@ -94,7 +94,7 @@ function App() {
 
     window.open(
 
-      "https://web-production-55a5a2.up.railway.app/export",
+      "https://loglens-backend-mohana.onrender.com",
 
       "_blank"
 
