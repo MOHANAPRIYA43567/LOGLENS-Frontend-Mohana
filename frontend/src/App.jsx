@@ -72,7 +72,7 @@ function App() {
 
       const response = await axios.get(
 
-        "https://loglens-backend-mohana.onrender.com"
+        "https://loglens-backend-mohana.onrender.com/demo"
 
       );
 
@@ -94,7 +94,7 @@ function App() {
 
     window.open(
 
-      "https://loglens-backend-mohana.onrender.com",
+      "https://loglens-backend-mohana.onrender.com/demo",
 
       "_blank"
 
